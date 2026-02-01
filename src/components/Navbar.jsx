@@ -33,7 +33,7 @@ const Navbar = () => {
                         fontWeight: '700',
                         color: 'var(--primary)'
                     }}>
-                        Comunidad 23
+                        Comunidad Unida
                     </span>
                 </Link>
 

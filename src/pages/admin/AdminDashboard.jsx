@@ -37,7 +37,7 @@ const AdminDashboard = () => {
                 <div className="container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                     <div>
                         <h1 style={{ fontSize: '1.25rem', margin: 0 }}>Panel de Administración</h1>
-                        <p style={{ fontSize: '0.8rem', color: '#94a3b8' }}>Comunidad Conectada: 23 de Enero</p>
+                        <p style={{ fontSize: '0.8rem', color: '#94a3b8' }}>Comunidad Conectada: 23 de Enero y Colinas</p>
                     </div>
                     <button
                         onClick={handleLogout}
